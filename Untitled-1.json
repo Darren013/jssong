@@ -1,0 +1,33 @@
+[
+    {
+      "song": "Just the Two of Us",
+      "artist": "Bill Withers",
+      "genre": "R&B",
+      "link": "https://www.youtube.com/watch?v=KYwA5k00p2I"
+    },
+    {
+      "song": "Something Stupid",
+      "artist": "Frank Sinatra",
+      "genre": "Pop",
+      "link": "https://www.youtube.com/watch?v=F8dKVbP1Nzo"
+    },
+    {
+        "song": "Circles",
+        "artist": "Post Malone",
+        "genre": "Pop",
+        "link": "https://www.youtube.com/watch?v=wXhTHyIgQ_U"
+    },
+    {
+        "song": "Kiss Me",
+        "artist": "Sixpence None the Richer",
+        "genre": "Pop",
+        "link": "https://www.youtube.com/watch?v=v45F0YesdZM"
+    },
+    {
+        "song": "The Reason",
+        "artist": "Hoobastank",
+        "genre": "Rock",
+        "link": "https://www.youtube.com/watch?v=fV4DiAyExN0"
+    }
+   
+  ]
